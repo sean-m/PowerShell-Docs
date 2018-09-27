@@ -162,8 +162,6 @@ Accept wildcard characters: False
 Includes the command in the active transaction.
 This parameter is valid only when a transaction is in progress.
 For more information, see Includes the command in the active transaction.
-This parameter is valid only when a transaction is in progress.
-For more information, see
 
 ```yaml
 Type: SwitchParameter
